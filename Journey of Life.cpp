@@ -8,7 +8,6 @@ using namespace std;
 
 /*
   Name: Srewashi Mondal, Saanavi Goyal
-  Finished at 3:29AM! LOL 
 */
 
 int score = 0;
@@ -565,5 +564,3 @@ int main()
 
   return 0;
 }
-
-//Timestamp: 05/19/2023, @3:29AM 🤪
